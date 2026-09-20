@@ -5,7 +5,7 @@
 
 ---
 
-Eu criei 2 addons que usam somente javascript usei a versão `"2.10.0"` do `"@minecraft/server"`. No primeiro addon coloquei só contador de tempo a cade 5 segundos. Já no segundo addon, implementei comandos para dar boas vindas ao jogador e alterar o piso de todos os jogadores.
+Eu criei 2 addons que usam somente javascript usei a versão `"2.10.0"` do `"@minecraft/server"`. No primeiro addon coloquei só contador de tempo a cada 5 segundos. Já no segundo addon, implementei comandos para dar boas vindas ao jogador e alterar o piso de todos os jogadores.
 
 # Como usar no jogo?
 
